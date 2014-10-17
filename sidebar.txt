@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yud:home|Door43 (yud)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yud|d43-yud repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yud/archive/master.zip|d43-yud.zip]]
+
+**Recent Changes**
+{{changes>ns = yud}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yud|Ethnologue data]]
+
